@@ -175,7 +175,14 @@ cython_debug/
 
 
 datasets/7scenes
+datasets/12scenes
 datasets/cambridge
 results/
 map/
 *.ckpt
+
+# Local environments and installed third-party sources
+.conda-env/
+.conda-pkgs/
+submodules/Mask2Former/
+submodules/detectron2/
